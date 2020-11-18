@@ -15,7 +15,7 @@ Cilj analize je poiskati povezave med izpusti toplogrednih plinov, stopnjo recik
 TABELE:
 1. tabela: letni izpusti toplogrednih plinov (CO2, N2O, CH4, SF6)
   * NAMEA emisije v zrak (SKD 2008) po: DEJAVNOST, MERITVE , LETO
-  (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2719901S.px/table/tableView    Layout2/)
+  (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2719901S.px/table/tableViewLayout2/)
   
 2. tabela: nastali komunalni odpadki, nastali nevarni komunalni odpadki, reciklirani komunalni odpadki
   * Kazalniki za odpadke po: KAZALNIKI , LETO
