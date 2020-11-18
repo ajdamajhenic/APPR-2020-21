@@ -5,10 +5,31 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/ajdamajhenic/APPR-2020-21/master?urlpath=shiny/APPR-2020-21/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/ajdamajhenic/APPR-2020-21/master?urlpath=rstudio) RStudio
 
-## Tematika
+## Tematika: Analiza dejavnikov, ki vplivajo na okolje v Sloveniji
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+V tej projektni nalogi bom analizirala določene dejavnike, ki vplivajo na okolje v Sloveniji. Analizirala bom količine izpuščenih toplogrednih plinov v ozračje za različne gospodarske dejavnosti, nastale komunalne odpadke (nevarne, reciklirane), investicije za varstvo okolja in gospodarsko rast države. Ukvarjala se bom s podatki, pridobljenimi med letoma 2012 in 2018, vir pa bo stran statističnega urada Republike Slovenije (SURS).
+
+Cilj analize je poiskati povezave med izpusti toplogrednih plinov, stopnjo recikliranja, z investicijami za varstvo okolja in rastjo BDP-ja.
+
+
+TABELE:
+1. tabela: letni izpusti toplogrednih plinov (CO2, N2O, CH4, SF6)
+  * NAMEA emisije v zrak (SKD 2008) po: DEJAVNOST, MERITVE , LETO
+  (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2719901S.px/table/tableView    Layout2/)
+  
+2. tabela: nastali komunalni odpadki, nastali nevarni komunalni odpadki, reciklirani komunalni odpadki
+  * Kazalniki za odpadke po: KAZALNIKI , LETO
+  (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/2700001S.px/table/tableViewLayout2/)
+  
+3. tabela: investicije za varstvo okolja (v % BDP-ja), tekoči izdatki za varstvo okolja (v % BDP-ja), investicije za varstvo okolja v industriji (v % BDP-ja)
+  * Investicije in tekoči izdatki za varstvo okolja (1000 EUR) po: LETO , VRSTA IZDATKA
+  (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/H004S.px/table/tableViewLayout2/)
+  
+4. tabela: BDP (količina, rast)
+  * Proizvodna struktura BDP (SKD 2008) po: LETO, MERITVE, TRANSAKCIJE , DEJAVNOSTI/TRANSAKCIJE
+  (https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0301915S.px/table/tableViewLayout2/)
+
+
 
 ## Program
 
